@@ -1,2 +1,4 @@
 # Onshape_practiceModels
-All the models created and practiced.
+Ahnaf Tahmid
+202516024
+EECE Level 2 SEction A
